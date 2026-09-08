@@ -1,5 +1,5 @@
 # tiket
-plugin wordpress tiket
+plugin wordpress tiket. 
 buat plugin wordpress aplikasi mobile cms Active Nation CMS
 1. Product Vision & Philosophy
 Platform ini dirancang untuk menyediakan ekosistem event olahraga digital yang lengkap, andal, dan aman yang menghubungkan Pelanggan, Instruktur, dan Administrator. Kesuksesan sejati tercapai ketika pengguna memahami, memvalidasi, dan dengan percaya diri menggunakan solusi yang telah mereka bangun.
