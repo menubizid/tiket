@@ -1,2 +1,2 @@
 # tiket
-tiket
+plugin wordpress tiket
